@@ -3,6 +3,7 @@ Pingan competition
 ## problem
 - title(15818个unique）
 - emp_title(70000 uniques)
+- zip_code（我觉得可以删）
 
 ## none process
 1. member_id
